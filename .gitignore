@@ -34,3 +34,6 @@ buildNumber.properties
 
 # Go workspace file
 go.work
+
+# VSCode
+.vscode
