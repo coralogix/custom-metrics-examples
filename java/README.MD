@@ -10,4 +10,4 @@ export CX_TOKEN=<send your data api key>
 mvn clean compile assembly:single && java -jar target/otel-java-sdk-example-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
-For the US cluster the endpoint is: https://otel-metrics.coralogix.us:443 - Visit the [Coralogix Domains](https://coralogix.com/docs/coralogix-domain/) to learn more.
+For the US cluster the endpoint is: https://ingress.coralogix.us:443 - Visit the [Coralogix Domains](https://coralogix.com/docs/coralogix-domain/) to learn more.

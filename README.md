@@ -1,7 +1,7 @@
 # custom-metrics-examples
 SDK examples showcasing the custom metrics endpoint and how to send metrics to Coralogix.
 
-The endpoint used acorss the tutorials is `otel-metrics`. Visit the [Coralogix Domains](https://coralogix.com/docs/coralogix-domain/) to learn more.
+The endpoint used across the tutorials is `ingress.coralogix.us`. Visit the [Coralogix Domains](https://coralogix.com/docs/coralogix-domain/) to learn more.
 
 Table of contents:
 
